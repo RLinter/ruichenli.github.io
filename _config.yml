@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ruichen Li"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am currently a **UCSD** 2nd year master student."
+  location         : "La Jolla, CA"
+  email            : "rul014@ucsd.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
