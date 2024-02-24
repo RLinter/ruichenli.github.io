@@ -117,7 +117,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RLinter"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=2Dv077YAAAAJ&hl=en"
 
 # Site Footer
@@ -127,7 +127,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RLinter"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=2Dv077YAAAAJ&hl=en"
 
 
