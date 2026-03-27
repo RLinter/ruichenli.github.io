@@ -105,14 +105,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruichen Li 李睿辰"
+  name             : "Ruichen Li"
   avatar           : "/assets/images/bio_photo.JPG"
-  bio              : "Master's Student at University of California (UCSD)"
-  location         : "La Jolla, CA"
+  bio              : "PhD Student at the Ohio State University"
+  location         : "Columbus, OH"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:rul014@ucsd.edu"
+      url: "mailto:li.15142@osu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RLinter"
