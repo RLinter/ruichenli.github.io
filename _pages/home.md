@@ -9,8 +9,9 @@ I am a second year PhD student at OSU working with Dr. Ting Zhu. My research foc
 
 ## Selected Papers
 
-1. **Exploring LEO Satellite Networks for Continuous Monitoring and Dynamic Tracking**  (To appear in SenSys 2026)  
+1. **Exploring LEO Satellite Networks for Continuous Monitoring and Dynamic Tracking**  (SenSys 2026)  
    Lang Wei, *Ruichen Li*, Baodong Chen, Qifan Yang, Yufan Wu, Ting Zhu
+   [PDF](https://dl.acm.org/doi/10.1145/3774906.3802766)
 2. **AlignScore: Evaluating Factual Consistency with a Unified Alignment Function** (ACL 2023)  
    Yuheng Zha, Yichi Yang, *Ruichen Li*, Zhiting Hu
    [PDF](https://aclanthology.org/2023.acl-long.634.pdf) · [Code](https://github.com/yuh-zha/AlignScore)
