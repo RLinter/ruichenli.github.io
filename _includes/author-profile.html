@@ -34,7 +34,12 @@
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
-            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+            {% if link.url contains '://' or link.url contains 'mailto:' %}
+              {% assign link_url = link.url %}
+            {% else %}
+              {% assign link_url = link.url | relative_url %}
+            {% endif %}
+            <li><a href="{{ link_url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
           {% endif %}
         {% endfor %}
       {% endif %}
