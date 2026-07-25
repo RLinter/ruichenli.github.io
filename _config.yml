@@ -119,6 +119,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=2Dv077YAAAAJ&hl=en"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/resume.pdf"
 
 # Site Footer
 footer:

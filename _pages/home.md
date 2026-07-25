@@ -22,7 +22,7 @@ I am a second year PhD student at OSU working with Dr. Ting Zhu. My research foc
 
 ## Services
 
-- **Reviewer**: ICLR 2024, ICML 2026, NeurIPS 2026, TMLR 2026
+- **Reviewer**: ICLR 2024, ICML 2026, NeurIPS 2026, TMLR 2026, AAAI 2027
 - **Artifact Evaluation Committee**: Usenix Security 2025, MobiSys 2025
 - **Teaching Assistant**: CSE 21 UCSD, CSE 1222 OSU
 
