@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-I am a second year PhD student at OSU working with Dr. Ting Zhu. My research focuses on integrating AI techniques into network systems.
+I am a third-year Ph.D. student at OSU working with Dr. Ting Zhu. My research focuses on integrating AI techniques into network systems.
 
 ## Selected Papers
 1. **Achieving Efficient Storage and Communication via Collaboration** (SIGCOMM 2026)  
